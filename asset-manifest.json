@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Food-App-Using-React/static/css/main.f7bd8f4f.chunk.css",
+    "main.js": "/Food-App-Using-React/static/js/main.3dccaa76.chunk.js",
+    "main.js.map": "/Food-App-Using-React/static/js/main.3dccaa76.chunk.js.map",
+    "runtime-main.js": "/Food-App-Using-React/static/js/runtime-main.9af9153f.js",
+    "runtime-main.js.map": "/Food-App-Using-React/static/js/runtime-main.9af9153f.js.map",
+    "static/js/2.8c3a7474.chunk.js": "/Food-App-Using-React/static/js/2.8c3a7474.chunk.js",
+    "static/js/2.8c3a7474.chunk.js.map": "/Food-App-Using-React/static/js/2.8c3a7474.chunk.js.map",
+    "index.html": "/Food-App-Using-React/index.html",
+    "static/css/main.f7bd8f4f.chunk.css.map": "/Food-App-Using-React/static/css/main.f7bd8f4f.chunk.css.map",
+    "static/js/2.8c3a7474.chunk.js.LICENSE.txt": "/Food-App-Using-React/static/js/2.8c3a7474.chunk.js.LICENSE.txt",
+    "static/media/pakistanimeal.786548f6.jpg": "/Food-App-Using-React/static/media/pakistanimeal.786548f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9af9153f.js",
+    "static/js/2.8c3a7474.chunk.js",
+    "static/css/main.f7bd8f4f.chunk.css",
+    "static/js/main.3dccaa76.chunk.js"
+  ]
+}
